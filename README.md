@@ -2,7 +2,7 @@
 
 ![Tools](https://img.shields.io/badge/Tools-HOMER%20%7C%20Solar%20PV%20%7C%20Wind%20Turbine%20Design-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/hybrid-solar-wind-power-plant)
+![Last Commit](https://img.shields.io/github/last-commit/mdlaisurrahmankhanturjo/hybrid-solar-wind-power-plant)
 
 ![Hybrid Power Plant](images/hybrid_pp.jpg)
 
