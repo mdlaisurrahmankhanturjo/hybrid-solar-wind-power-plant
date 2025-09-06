@@ -33,7 +33,7 @@ Key features:
 ---
 
 ## 📸 Gallery
-![Hybrid Power Plant](images/hybrid_pp.jpg)  
+![Hybrid Power Plant](images/hybrid_pp_2.jpg)  
 *Conceptual layout of the hybrid power plant.*
 
 ---
